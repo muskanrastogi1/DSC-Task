@@ -1,0 +1,144 @@
+.head {
+    margin-top: 200px;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 10vw;
+    font-size: 50px;
+    font-weight: 200;
+   
+}
+
+.power {
+    margin-left: 10vw;
+    font-family: 'Source+Sans+Pro', sans-serif;
+    font-weight: 550;
+    font-size: 30px;
+}
+
+.aim {
+    margin-left: 10vw;
+    font-family: 'Dosis', sans-serif;
+    color:gray;
+    font-size: 20px;
+    margin-top: 2vh;
+}
+
+.focus {
+    margin-top: 20vh;
+    text-align: center;
+    font-family: 'Source+Sans+Pro', sans-serif;
+    font-size: 40px;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    font-size : 20px
+}
+.gett{
+    padding-top:20vh;
+    font-family: 'Source+Sans+Pro', sans-serif;
+    font-size: 40px;
+
+}
+* {
+    scroll-behavior: smooth
+}
+.alum{
+    padding-top:20vh;
+    font-family: 'Source+Sans+Pro', sans-serif; 
+    font-size: 40px;
+}
+.update{
+    padding-top:20vh;
+    font-family: 'Source+Sans+Pro', sans-serif; 
+    font-size: 40px;
+}
+.us{
+    padding-top:10vh;
+    font-family: 'Source+Sans+Pro', sans-serif; 
+    font-size: 38px;
+}
+
+.circle {
+    height: 175px;
+    width: 175px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+    margin-left : 50%;
+    transform: translateX(-50%);
+}
+.square {
+    height: 200px;
+    width: 175px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15%;
+    margin-left : 15%;
+    
+
+}
+.img{
+    margin-left:48vw;
+    margin-top:20vw;
+}
+.circle2 {
+    height: 45px;
+    width: 45px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+    margin-top:5vh;
+    display: inline-block;
+    margin-left: 1vw;
+}
+.picture1{
+    margin-left: 25vw;
+    height:180px;
+    width:180px;
+    margin-top:10vh;
+}
+.picture2{
+    margin-left: 7vw;
+    height:180px;
+    width:180px;
+    margin-top:10vh;
+}
+.picture3{
+    margin-left: 7vw;
+    height:180px;
+    width:180px;
+    margin-top:10vh;
+}
+.get{
+    margin-top:20vh;
+}
+.strong{
+    text-align: center;
+    margin-top: 4vh;
+}
+.learn{
+    margin-left:30vw;
+}
+.build{
+    margin-left:16vw;
+}
+.teach{
+    margin-left:16vw;
+}
+.board{
+    margin-top: 20vh;
+    text-align: center;
+    font-family: 'Source+Sans+Pro', sans-serif;
+    font-size: 40px;
+}
+.box{
+    position: absolute;
+    border:2px solid black;
+    bottom:0;
+    background-color:black;
+    width:100%;
+    height:50px; 
+    border-radius:10px;
+    text-align: center;
+    color:white;
+    line-height: 40px;
+}
