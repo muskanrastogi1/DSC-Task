@@ -1,2 +1,4 @@
 # DSC-Website
-Responsive
+A practice Responsive website for frontend learning
+
+https://muskanrastogi1.github.io/
